@@ -15,7 +15,6 @@ Este proyecto consiste en un servidor Node con una interfaz HTML, diseñado para
    ```bash
    npm run dev
 
-
 ## Info
 
 3. Desafío terminado. Solo resta modularizar y agregar validaciones.
