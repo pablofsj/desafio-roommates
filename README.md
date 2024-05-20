@@ -8,12 +8,14 @@ Este proyecto consiste en un servidor Node con una interfaz HTML, diseñado para
 Ejecutar el siguiente comando para instalar las dependencias del proyecto:
    ```bash
    npm i
+   ```
    
 ## 2. Ejecución
 
 Para ejecutar el proyecto de express utilizando nodemon, usar el siguiente comando:
    ```bash
    npm run dev
+   ```
 
 ## 3. Info
 
